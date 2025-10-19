@@ -1,5 +1,5 @@
 ### About Me
-I'm an aspiring computer science major who plans on using technology to make the world more accessible! I'm primarily a specialist in computer vision, but my skillset broadly spans across anything from robotics to game development! If you're interested in some of my projects, I have a few of my favorites linked below!
+I'm an aspiring computer science major who plans on using technology to make the world more accessible. I'm primarily a specialist in computer vision, but my skillset broadly spans across anything from robotics to game development. If you're interested in some of my projects, I have a few of my favorites linked below.
 
 [![Cameron Myhre's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronmyhre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
