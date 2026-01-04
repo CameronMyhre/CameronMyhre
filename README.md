@@ -5,7 +5,7 @@ I'm an aspiring computer science major who plans on using technology to make the
 
 
 ### What I'm Working On
-Currently, I'm working on improving Charger Robotics' odometry accuracy in preperation for the 2026 FIRST Robotics Competition (FRC) season.  The codebase containing our experimental code can be found [here](https://github.com/Team537/537-YAGSL-Test-Repository).
+Currently, I'm working on Raycast, the sequel to Oceanview.  This program will analyze game elements and other robots to make more educated autonomous decicions.  The codebase containing our experimental code can be found [here](https://github.com/Team537/Raycast).
 ### Key Projects
 - [Roblox Game Code](https://github.com/CameronMyhre/Roblox-Game-Scripts): A codebase containing Backrooms Unlimited's framework and level 3 code.
   - Role: Lead Developed: Directed project and developed most software
