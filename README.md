@@ -1,9 +1,5 @@
 ### About Me
 I'm an aspiring computer science major who plans on using technology to make the world more accessible.  I'm primarily a specialist in computer vision, but my skillset broadly spans across anything from robotics to game development.  If you're interested in some of my projects, I have a few of my favorites linked below.
-
-[![Cameron Myhre's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronmyhre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### What I'm Working On
 Currently, I’m developing Raycast, the successor to Oceanview. Raycast combines AI-based vision with the OAK-D Pro depth camera to detect game elements and other robots, estimate their 3D positions, and enable smarter autonomous behavior, such as robot avoidance and fully autonomous game-piece pickup and scoring—for the 2026 FIRST Robotics Competition (FRC) season. The Raycast codebase is available [here](https://github.com/Team537/Raycast).
 ### Key Projects
