@@ -1,7 +1,7 @@
 ### About Me
 I'm an aspiring computer science major who plans on using technology to make the world more accessible.  I'm primarily a specialist in computer vision, but my skillset broadly spans across anything from robotics to game development.  If you're interested in some of my projects, I have a few of my favorites linked below.
 ### What I'm Working On
-Currently, I’m developing Raycast, the successor to Oceanview. Raycast combines AI-based vision with the OAK-D Pro depth camera to detect game elements and other robots, estimate their 3D positions, and enable smarter autonomous behavior, such as robot avoidance and fully autonomous game-piece pickup and scoring—for the 2026 FIRST Robotics Competition (FRC) season. The Raycast codebase is available [here](https://github.com/Team537/Raycast).
+Currently, I’m developing Raycast, the successor to Oceanview. Raycast combines AI-based vision with the OAK-D Pro depth camera to detect game elements and other robots, estimate their 3D positions, and enable smarter autonomous behavior, such as robot avoidance and fully autonomous game-piece pickup and scoring-for the 2026 FIRST Robotics Competition (FRC) season. The Raycast codebase is available [here](https://github.com/Team537/Raycast).
 ### Key Projects
 - [Roblox Game Code](https://github.com/CameronMyhre/Roblox-Game-Scripts): A codebase containing Backrooms Unlimited's framework and level 3 code.
   - Role: Lead Developed: Directed project and developed most software
