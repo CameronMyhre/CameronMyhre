@@ -1,8 +1,10 @@
 ### About Me
 I'm an aspiring computer science major who plans on using technology to make the world more accessible.  I'm primarily a specialist in computer vision, but my skill set broadly spans anything from robotics to game development.  If you're interested in some of my projects, I've linked a few of my favorites below.
 ### Most Recent Projects
-My most recent project was something I call Raycast, the successor to Oceanview. Raycast combines AI-based vision with the OAK-D Pro depth camera to detect game elements and other robots, estimate their 3D positions, and enable smarter autonomous behavior, such as robot avoidance and fully autonomous game-piece pickup and scoring for the 2026 FIRST Robotics Competition (FRC) season. The Raycast codebase is available [here](https://github.com/Team537/Raycast).
+I'm currently working on real-time gesture detection for Wisconsin Robotics. You can see my work [here](https://github.com/WisconsinRobotics/WRoverSoftware_26-27).
 ### Key Projects
+- [Raycast](https://github.com/Team537/Raycast): AI-based vision with the OAK-D Pro depth camera to detect game elements and other robots, estimate their 3D positions, and enable smarter autonomous behavior, such as robot avoidance and fully autonomous game-piece pickup and scoring for the 2026 FIRST Robotics Competition (FRC) season.
+  - Role: Project Lead: Wrote and designed most software
 - [Roblox Game Code](https://github.com/CameronMyhre/Roblox-Game-Scripts): A codebase containing Backrooms Unlimited's framework and level 3 code.
   - Role: Lead Developed: Directed project and developed most software
 - [OceanView](https://github.com/Team537/OceanView/tree/main): Charger Robotics' Object Detection solution for the 2025 FRC season.
