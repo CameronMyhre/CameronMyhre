@@ -3,8 +3,8 @@ I'm an aspiring computer science major who plans on using technology to make the
 ### Most Recent Projects
 I'm currently working on real-time gesture detection and computer vision for Wisconsin Robotics. You can see my work [here](https://github.com/WisconsinRobotics/WRoverSoftware_26-27).
 ### Key Projects
-- [MadHacks 2026](https://github.com/arjun-net/MadHacks2026): Realtime congestion visualization app for universities. I designed the database and helped handle the database-Rust backend integration.
-  - Role: Database Architect
+- [MadHacks 2026](https://github.com/arjun-net/MadHacks2026): Realtime congestion visualization Swift app with a Rust backend for universities. The app supports projective and historical congestion analysis, enabling students and faculty to make more informed decisions.
+  - Role: Database Architect: I created the database for the project and helped integrate it into the Rust backend.
 - [Raycast](https://github.com/Team537/Raycast): AI-based vision with the OAK-D Pro depth camera to detect game elements and other robots, estimate their 3D positions, and enable smarter autonomous behavior, such as robot avoidance and fully autonomous game-piece pickup and scoring for the 2026 FIRST Robotics Competition (FRC) season.
   - Role: Project Lead: Wrote and designed most software
 - [2026 FRC Code](https://github.com/Team537/RobotCode2026):
