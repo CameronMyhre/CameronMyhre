@@ -23,8 +23,3 @@ I'm currently working on real-time gesture detection and computer vision for Wis
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ruby/ruby-original.svg"/>
 <br>
-
-<p style="border: 2px solid #333; border-radius: 10px; padding: 15px;">
-
-  sample text test aaa
-</p>
